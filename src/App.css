@@ -1,0 +1,40 @@
+.card {
+  box-shadow: 2px 4px 8px 0 rgba(0, 0, 0, 0.647);
+  max-width: 400px;
+  max-height: 500px;
+  margin: 50px auto auto auto; 
+  text-align: center;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #000;
+  padding: 0.5rem;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.texte {
+  color: grey;
+  font-size: 18px;
+}
+
+img {
+  border-radius: 50px;
+}
+
+p button {
+  background-color: #fff;
+  padding: 0.2rem;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  margin: 50px auto auto 720px;
+}
+
+p button:hover{
+  color: #fff;
+  background-color: #000;
+  transition: 0.2s ease ;
+}
